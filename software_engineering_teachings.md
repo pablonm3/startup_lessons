@@ -7,6 +7,9 @@
 4. If I'm not 100% confidence my solution is the best possible discuss w a co worker
 5. Once the right design/solution was found: put headphones on and code.
 
+## Constantly ask for feedback and set goals:
+Don't wait for your managers to give it, some nay forget it and over time not receiving feedback reduces the motivation to keeping improving so ask for feedback at least once a month and make sure you and your manager have clear goals for you in the Company. In the second startup I worked for this only aspect is what killed my motivation and ended up quitting with a very degraded performance and confidence about my work after 2 years of not asking for feedback. 
+
 
 ## Pieces of advice  gave me in my second startup:
 
